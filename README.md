@@ -1,6 +1,10 @@
 # node-react-native-fibonacci
  App to retrieve fibonacci series from the backend (Node.js) and display the results in React Native
 
+Pre-requesites:
+Setup your machine for React Native
+Follow these instructions: https://github.com/facebook/react-native
+
 How to run the app:
 
 Android
