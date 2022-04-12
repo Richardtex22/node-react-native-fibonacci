@@ -7,14 +7,17 @@ Follow these instructions: https://github.com/facebook/react-native
 
 How to run the app:
 
-Android
+Android:
+
 You need to add your ip adress in the host variable of client/App.tsx (line 72)
 
 In the terminal go to root folder and run `npm start` to run the server
 Open another terminal and go to client folder and run `yarn && yarn android`
 
-Ios
+Ios:
+
 In the terminal go to root folder and run `npm start` to run the server
 Open another terminal and go to client folder and run `yarn`
+
 Run `yarn run-ios`
-Go to client folder and run `yarn ios`
+Return to client folder and run `yarn ios`
